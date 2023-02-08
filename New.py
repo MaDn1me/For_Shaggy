@@ -1,7 +1,7 @@
 import telebot
 import random
 
-bot = telebot.TeleBot('5808660135:AAEi9TipDxdr2u5Vz--06fndV6LwN-Gilt4')
+bot = telebot.TeleBot('СЮДА ВВЕДИ СВОЙ ТОКЕН')
 
 hello = ['Салям', 'Добрый лень', 'Вечер в хату']
 text1 = ['Отличный набор', 'Вкусно', 'Рад']
